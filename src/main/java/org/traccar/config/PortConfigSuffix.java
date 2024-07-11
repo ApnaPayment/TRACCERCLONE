@@ -32,6 +32,7 @@ public class PortConfigSuffix extends ConfigSuffix<Integer> {
         PORTS.put("skypatrol", 5021);
         PORTS.put("gt02", 5022);
         PORTS.put("gt06", 5023);
+        PORTS.put("gt06", 8502);
         PORTS.put("megastek", 5024);
         PORTS.put("navigil", 5025);
         PORTS.put("gpsgate", 5026);
